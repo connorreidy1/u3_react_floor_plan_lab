@@ -1,0 +1,57 @@
+.floorplan-container{
+  width: 1000px;
+}
+
+
+div {
+  padding: 5px;
+  color:black;
+  font-size: 15px;
+}
+
+.kitchen-container{
+  background-color: rgb(253, 255, 144);
+}
+
+.oven-container {
+  background-color: orange;
+}
+
+.sink-container {
+  background-color: gray;
+}
+
+.yanit-bedroom-container, .cody-bedroom-container, .amid-bedroom-container {
+  background-color: rgb(84, 185, 84);
+}
+
+.living-room-container {
+  background-color: rgb(248, 220, 184);
+}
+
+.half-bath-container, .full-bath-container {
+  background-color: rgb(81, 101, 204);
+}
+
+.top-container {
+  display: flex;
+  flex-direction: row;
+  height: 500px;
+}
+
+.bed1-bath1-container{
+  height: 100%;
+}
+
+.bottom-container {
+  display: flex;
+  flex-direction: row;
+}
+
+
+
+
+.oven-sink-container {
+  display: flex;
+  flex-direction: row;
+}
